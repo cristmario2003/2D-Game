@@ -12,7 +12,7 @@ screen = pygame.display.set_mode((1024, 800))
 background = pygame.image.load('background.jpg')
 
 # Title and Icon
-pygame.display.set_caption("Jocul lui Cristi")
+pygame.display.set_caption("2D-Game")
 icon = pygame.image.load('spaceship.png')
 pygame.display.set_icon(icon)
 
